@@ -1,0 +1,14 @@
+p {
+   
+    border-width: 5px;
+    border-style: solid;
+    border-color: #000000;
+  
+}
+span {
+    float: left;
+    width: 0.8em;
+    font-size: 400%;   
+    line-height: 80%;
+    
+}
