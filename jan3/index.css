@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+.center {
+    text-align: center;
+    color: red;
+  }
+  H1,h3 {
+    text-align: center;
+    color: blue;
+  }
+  button {
+    color: black; 
+    background-color: red;
+    background-position: center;
+}
